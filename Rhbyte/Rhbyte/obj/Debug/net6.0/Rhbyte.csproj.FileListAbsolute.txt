@@ -1,0 +1,15 @@
+C:\Users\Kleber\source\repos\Rhbyte\Rhbyte\bin\Debug\net6.0\Rhbyte.exe
+C:\Users\Kleber\source\repos\Rhbyte\Rhbyte\bin\Debug\net6.0\Rhbyte.deps.json
+C:\Users\Kleber\source\repos\Rhbyte\Rhbyte\bin\Debug\net6.0\Rhbyte.runtimeconfig.json
+C:\Users\Kleber\source\repos\Rhbyte\Rhbyte\bin\Debug\net6.0\Rhbyte.dll
+C:\Users\Kleber\source\repos\Rhbyte\Rhbyte\bin\Debug\net6.0\Rhbyte.pdb
+C:\Users\Kleber\source\repos\Rhbyte\Rhbyte\obj\Debug\net6.0\Rhbyte.csproj.AssemblyReference.cache
+C:\Users\Kleber\source\repos\Rhbyte\Rhbyte\obj\Debug\net6.0\Rhbyte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kleber\source\repos\Rhbyte\Rhbyte\obj\Debug\net6.0\Rhbyte.AssemblyInfoInputs.cache
+C:\Users\Kleber\source\repos\Rhbyte\Rhbyte\obj\Debug\net6.0\Rhbyte.AssemblyInfo.cs
+C:\Users\Kleber\source\repos\Rhbyte\Rhbyte\obj\Debug\net6.0\Rhbyte.csproj.CoreCompileInputs.cache
+C:\Users\Kleber\source\repos\Rhbyte\Rhbyte\obj\Debug\net6.0\Rhbyte.dll
+C:\Users\Kleber\source\repos\Rhbyte\Rhbyte\obj\Debug\net6.0\refint\Rhbyte.dll
+C:\Users\Kleber\source\repos\Rhbyte\Rhbyte\obj\Debug\net6.0\Rhbyte.pdb
+C:\Users\Kleber\source\repos\Rhbyte\Rhbyte\obj\Debug\net6.0\Rhbyte.genruntimeconfig.cache
+C:\Users\Kleber\source\repos\Rhbyte\Rhbyte\obj\Debug\net6.0\ref\Rhbyte.dll
