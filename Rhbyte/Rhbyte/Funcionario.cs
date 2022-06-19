@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Rhbyte
 {
-    public class Funcionario
+    public abstract class Funcionario
     {
         public Funcionario(string nome, int idade)
         {

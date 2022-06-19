@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kleber\\source\\repos\\Rhbyte\\Rhbyte\\Rhbyte.csproj",
+      "projectUniqueName": "C:\\Users\\Kleber\\source\\repos\\kleberMRocha\\EstudoCsharp\\Rhbyte\\Rhbyte\\Rhbyte.csproj",
       "projectName": "Rhbyte",
-      "projectPath": "C:\\Users\\Kleber\\source\\repos\\Rhbyte\\Rhbyte\\Rhbyte.csproj",
+      "projectPath": "C:\\Users\\Kleber\\source\\repos\\kleberMRocha\\EstudoCsharp\\Rhbyte\\Rhbyte\\Rhbyte.csproj",
       "packagesPath": "C:\\Users\\Kleber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kleber\\source\\repos\\Rhbyte\\Rhbyte\\obj\\",
+      "outputPath": "C:\\Users\\Kleber\\source\\repos\\kleberMRocha\\EstudoCsharp\\Rhbyte\\Rhbyte\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kleber\\AppData\\Roaming\\NuGet\\NuGet.Config",

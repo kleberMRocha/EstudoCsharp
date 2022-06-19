@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Funcionario kleber = new Funcionario("Kleber", 29);
+            Funcionario kleber = new SysAdmin("Kleber", 29);
             kleber.Cargo();
 
             Diretor ze = new Diretor("ze", 36);

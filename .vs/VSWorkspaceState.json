@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Rhbyte",
+    "\\Rhbyte\\Rhbyte"
   ],
+  "SelectedNode": "\\Rhbyte\\Rhbyte\\Rhbyte.csproj",
   "PreviewInSolutionExplorer": false
 }
