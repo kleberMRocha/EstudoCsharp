@@ -1,14 +1,19 @@
-﻿namespace Rhbyte
+﻿using Humanizer;
+namespace Rhbyte
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Funcionario kleber = new SysAdmin("Kleber", 29);
-            kleber.Cargo();
 
-            Diretor ze = new Diretor("ze", 36);
-            ze.Cargo();
+            MostaLista("teste");
+            MostaLista(5656);
+            MostaLista(false);
+
+        }
+        public static void MostaLista<T>(T value)
+        {
+            Console.WriteLine(value);
         }
     }
 }

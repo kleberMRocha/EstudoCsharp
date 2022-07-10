@@ -6,12 +6,17 @@ using System.Threading.Tasks;
 
 namespace Rhbyte
 {
-    public class Diretor : Funcionario
+    public class Diretor : Funcionario, IAcessoSistema
     {
-        public Diretor(string nome, int idade) : base(nome, idade){}
+        public Diretor(string nome, int idade) : base(nome, idade) { }
         public override void Cargo()
         {
             Console.WriteLine(Nome + " " + "Meu cargo é Diretor");
         }
+        public void Logar() {
+            Console.WriteLine(this.Nome + " " + " Logado");
+        }
+
+
     }
 }

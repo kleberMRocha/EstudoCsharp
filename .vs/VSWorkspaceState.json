@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Rhbyte",
-    "\\Rhbyte\\Rhbyte"
+    "\\Rhbyte\\Rhbyte",
+    "\\Rhbyte\\Rhbyte\\obj\\Release",
+    "\\Rhbyte\\Rhbyte\\obj\\Release\\net6.0",
+    "\\Rhbyte\\Rhbyte\\obj\\Release\\net6.0\\ref"
   ],
-  "SelectedNode": "\\Rhbyte\\Rhbyte\\Rhbyte.csproj",
+  "SelectedNode": "\\Rhbyte\\Rhbyte.sln",
   "PreviewInSolutionExplorer": false
 }
